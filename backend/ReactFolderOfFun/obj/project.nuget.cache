@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dg7jt1WrIeXIkbC/x63YS8aIurAmjoiA3ia8djjqy7I9MbV9Wg0y0UTa9Pf1KOpVD9GJbmPgHFdrYDCcJ7TCw==",
+  "success": true,
+  "projectFilePath": "C:\\ReactFolderOfFun\\backend\\ReactFolderOfFun\\ReactFolderOfFun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rileymarshall\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rileymarshall\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rileymarshall\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rileymarshall\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rileymarshall\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rileymarshall\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
